@@ -26,3 +26,4 @@ Each scrap now has configurable spawn weights and moon spawn locations.
 
 - Koopa Shell
 
+Download at the Thunderstore! https://thunderstore.io/c/lethal-company/p/RealeStudios/SM64Scrap/
