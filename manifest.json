@@ -1,0 +1,14 @@
+{
+  "name": "SM64Scrap",
+  "version_number": "2.0.2",
+  "website_url": "",
+  "description": "SM64 scrap from my SM64 moons! Spawns on vanilla moons by default. Can be configured to spawn on custom moons as well. V62 compatible",
+	"dependencies": [
+		"Evaisa-HookGenPatcher-0.0.5",
+		"BepInEx-BepInExPack-5.4.2100",
+		"MaxWasUnavailable-LethalModDataLib-1.2.2",
+		"Evaisa-FixPluginTypesSerialization-1.1.1",
+		"Evaisa-LethalLib-0.16.1",
+		"IAmBatby-LethalLevelLoader-1.3.10"
+	]
+}
